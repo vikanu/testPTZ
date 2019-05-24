@@ -1,0 +1,21 @@
+D:\MULTECH\project\TestPTZ\TestPTZ\bin\Debug\TestPTZ.exe.config
+D:\MULTECH\project\TestPTZ\TestPTZ\bin\Debug\TestPTZ.exe
+D:\MULTECH\project\TestPTZ\TestPTZ\bin\Debug\TestPTZ.pdb
+D:\MULTECH\project\TestPTZ\TestPTZ\bin\Debug\OzekiSDK.dll
+D:\MULTECH\project\TestPTZ\TestPTZ\obj\Debug\TestPTZ.csprojResolveAssemblyReference.cache
+D:\MULTECH\project\TestPTZ\TestPTZ\obj\Debug\TestPTZ.Form1.resources
+D:\MULTECH\project\TestPTZ\TestPTZ\obj\Debug\TestPTZ.Properties.Resources.resources
+D:\MULTECH\project\TestPTZ\TestPTZ\obj\Debug\TestPTZ.csproj.GenerateResource.Cache
+D:\MULTECH\project\TestPTZ\TestPTZ\obj\Debug\TestPTZ.exe
+D:\MULTECH\project\TestPTZ\TestPTZ\obj\Debug\TestPTZ.pdb
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\bin\Debug\TestPTZ.exe.config
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\obj\Debug\TestPTZ.exe
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\obj\Debug\TestPTZ.pdb
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\bin\Debug\TestPTZ.exe
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\bin\Debug\TestPTZ.pdb
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\bin\Debug\OzekiSDK.dll
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\obj\Debug\TestPTZ.csprojResolveAssemblyReference.cache
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\obj\Debug\TestPTZ.Form1.resources
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\obj\Debug\TestPTZ.Properties.Resources.resources
+D:\MULTECH\project\PTZ 2 cam\TestPTZ\TestPTZ\obj\Debug\TestPTZ.csproj.GenerateResource.Cache
+C:\Users\VIKA\Downloads\Compressed\TestPTZ\TestPTZ\bin\Debug\TestPTZ.exe.config
